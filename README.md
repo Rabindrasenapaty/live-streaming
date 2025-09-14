@@ -25,11 +25,5 @@ This project allows users to join a room and interact via video/audio calls in t
 - **Real-time SDK:** ZegoCloud  
 - **Deployment:** Vercel  
 
----
 
-## 📦 Installation & Setup
 
-Clone the repository:
-```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
