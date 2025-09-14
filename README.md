@@ -21,7 +21,7 @@ This project allows users to join a room and interact via video/audio calls in t
 ---
 
 ## 🛠️ Tech Stack
-- **Frontend:** React.js / Next.js  
+- **Frontend:** React.js  
 - **Real-time SDK:** ZegoCloud  
 - **Deployment:** Vercel  
 
